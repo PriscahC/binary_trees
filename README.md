@@ -2,4 +2,4 @@
 
 ### Contributor
 Priscah A
-Joel K
+Joel K.
