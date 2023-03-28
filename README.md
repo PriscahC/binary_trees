@@ -1,6 +1,5 @@
-# Binary tress
+# 0x1D. C - Binary trees
 
-Contributors:
-
+### Contributor
 Priscah A
-Joel K 
+Joel K
