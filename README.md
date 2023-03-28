@@ -1,5 +1,5 @@
 # 0x1D. C - Binary trees
 
 ### Contributor
-Priscah A
+Priscah A <br>
 Joel K.
